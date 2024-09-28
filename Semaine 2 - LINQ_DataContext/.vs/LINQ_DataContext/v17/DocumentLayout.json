@@ -10,6 +10,10 @@
       "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\semaine 2 - linq_datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\semaine 2 - linq_datacontext\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\semaine 2 - linq_datacontext\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\semaine 2 - linq_datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\semaine 2 - linq_datacontext\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,14 +47,14 @@
               "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAjwJAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T14:49:14.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Semaine 2 - LINQ_DataContext\\Grade.cs",
               "RelativeDocumentMoniker": "Grade.cs",
@@ -72,14 +72,14 @@
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Semaine 2 - LINQ_DataContext\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T14:48:30.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Section.cs",
               "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Semaine 2 - LINQ_DataContext\\Section.cs",
               "RelativeDocumentMoniker": "Section.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Professor.cs",
               "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Semaine 2 - LINQ_DataContext\\Professor.cs",
               "RelativeDocumentMoniker": "Professor.cs",
@@ -103,15 +103,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Semaine 2 - LINQ_DataContext\\DataContext.cs",
               "RelativeDocumentMoniker": "DataContext.cs",
               "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Semaine 2 - LINQ_DataContext\\DataContext.cs",
               "RelativeToolTip": "DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T14:48:30.293Z"
+              "WhenOpened": "2024-09-28T14:48:30.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
