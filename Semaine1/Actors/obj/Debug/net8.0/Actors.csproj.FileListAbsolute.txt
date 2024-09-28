@@ -1,0 +1,14 @@
+C:\école\3e Année\.Net\Semaine1\Actors\bin\Debug\net8.0\Actors.exe
+C:\école\3e Année\.Net\Semaine1\Actors\bin\Debug\net8.0\Actors.deps.json
+C:\école\3e Année\.Net\Semaine1\Actors\bin\Debug\net8.0\Actors.runtimeconfig.json
+C:\école\3e Année\.Net\Semaine1\Actors\bin\Debug\net8.0\Actors.dll
+C:\école\3e Année\.Net\Semaine1\Actors\bin\Debug\net8.0\Actors.pdb
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.GeneratedMSBuildEditorConfig.editorconfig
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.AssemblyInfoInputs.cache
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.AssemblyInfo.cs
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.csproj.CoreCompileInputs.cache
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.dll
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\refint\Actors.dll
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.pdb
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\Actors.genruntimeconfig.cache
+C:\école\3e Année\.Net\Semaine1\Actors\obj\Debug\net8.0\ref\Actors.dll
