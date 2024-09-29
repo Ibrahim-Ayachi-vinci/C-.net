@@ -164,7 +164,7 @@ class Program
 
 
         //////////////////////////////////////////////
-        /// Exerice 5.1
+        /// Exerice 5.3
         /// 
 
 
@@ -181,6 +181,35 @@ class Program
         {
             Console.WriteLine("Résultat moyen pour les étudiant : " + g.Average(student => student.Year_Result) + " née le mois de : " + g.First().BirthDate.Month);
         }
+
+
+
+
+
+        //////////////////////////////////////////////
+        /// Exerice 5.5
+        /// 
+
+
+        var QueryResult5_5 = from cour in dc.Courses
+                             join p in dc.Professors on cour.Professor_ID equals p.Professor_ID
+                             join s in dc.Sections on p.Section_ID equals s.Section_ID
+                             select new
+                             {
+                                 Course_name = cour.Course_Name,
+                                 Section_name = s.Section_Name,
+                                 Professor_name = p.Professor_Name
+                             };
+
+
+        Console.WriteLine("--------------------------------------- Exercice 5.5 ---------------------------------------");
+
+
+        foreach(var g in QueryResult5_5)
+        {
+            Console.WriteLine("course name : " + g.Course_name + " Section Name : " + g.Section_name + " Professor Name : " + g.Professor_name);
+        }
+
 
     }
 }
