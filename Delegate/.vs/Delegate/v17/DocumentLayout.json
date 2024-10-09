@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Delegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F702DD-F3C3-4EC6-9CB4-071B45005DFE}|Delegate\\Delegate.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\delegate\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F702DD-F3C3-4EC6-9CB4-071B45005DFE}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F702DD-F3C3-4EC6-9CB4-071B45005DFE}|Delegate\\Delegate.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\delegate\\delegate\\filelog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20F702DD-F3C3-4EC6-9CB4-071B45005DFE}|Delegate\\Delegate.csproj|solutionrelative:delegate\\filelog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileLog.txt",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Delegate\\Delegate\\fileLog.txt",
+              "RelativeDocumentMoniker": "Delegate\\fileLog.txt",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Delegate\\Delegate\\fileLog.txt",
+              "RelativeToolTip": "Delegate\\fileLog.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T16:02:33.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Delegate\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\Delegate\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwCAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:21:24.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Ceci est une ligne de log. 
+
+Ceci est une ligne de log2. 
+
+FileLogger : Je suis celui qui écrit
