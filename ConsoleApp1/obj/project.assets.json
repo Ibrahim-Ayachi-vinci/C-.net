@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\école\\3e Année\\C-.net\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\école\\3e Année\\C-.net\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\ayach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\école\\3e Année\\C-.net\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ayach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,14 +47,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj": {
-              "projectPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj"
+            "C:\\école\\3e Année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj": {
+              "projectPath": "C:\\école\\3e Année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj"
             }
           }
         }
@@ -89,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

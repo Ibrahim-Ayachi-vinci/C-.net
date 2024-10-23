@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj",
+      "projectUniqueName": "C:\\école\\3e Année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj",
       "projectName": "LINQ_DataContext",
-      "projectPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj",
+      "projectPath": "C:\\école\\3e Année\\C-.net\\Semaine 2 - LINQ_DataContext\\LINQ_DataContext.csproj",
       "packagesPath": "C:\\Users\\ayach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\Semaine 2 - LINQ_DataContext\\obj\\",
+      "outputPath": "C:\\école\\3e Année\\C-.net\\Semaine 2 - LINQ_DataContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ayach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

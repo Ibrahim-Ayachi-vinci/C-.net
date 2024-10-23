@@ -16,7 +16,10 @@
       },
       "LINQ_DataContext/1.0.0": {
         "runtime": {
-          "LINQ_DataContext.dll": {}
+          "LINQ_DataContext.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

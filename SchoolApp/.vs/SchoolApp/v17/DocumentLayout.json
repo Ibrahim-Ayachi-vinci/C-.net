@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\SchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34415DA4-14D6-443D-8A02-CDCBBC87BFCA}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleapp2\\repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34415DA4-14D6-443D-8A02-CDCBBC87BFCA}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleapp2\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34415DA4-14D6-443D-8A02-CDCBBC87BFCA}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepositorySQL.cs",
+              "DocumentMoniker": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\ConsoleApp2\\Repository\\BaseRepositorySQL.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Repository\\BaseRepositorySQL.cs",
+              "ToolTip": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\ConsoleApp2\\Repository\\BaseRepositorySQL.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Repository\\BaseRepositorySQL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:21:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\ConsoleApp2\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\ConsoleApp2\\Repository\\IRepository.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:15:10.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\\u00E9cole\\3e Ann\u00E9e\\C-.net\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:42:04.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

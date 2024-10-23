@@ -10,3 +10,15 @@ C:\Users\ayach\Desktop\école\3e année\C-.net\Semaine 2 - LINQ_DataContext\obj\
 C:\Users\ayach\Desktop\école\3e année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\refint\LINQ_DataContext.dll
 C:\Users\ayach\Desktop\école\3e année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.pdb
 C:\Users\ayach\Desktop\école\3e année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\ref\LINQ_DataContext.dll
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\bin\Debug\net6.0\LINQ_DataContext.deps.json
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\bin\Debug\net6.0\LINQ_DataContext.dll
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\bin\Debug\net6.0\LINQ_DataContext.pdb
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.AssemblyInfoInputs.cache
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.AssemblyInfo.cs
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.csproj.CoreCompileInputs.cache
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.sourcelink.json
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.dll
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\refint\LINQ_DataContext.dll
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\LINQ_DataContext.pdb
+C:\école\3e Année\C-.net\Semaine 2 - LINQ_DataContext\obj\Debug\net6.0\ref\LINQ_DataContext.dll
