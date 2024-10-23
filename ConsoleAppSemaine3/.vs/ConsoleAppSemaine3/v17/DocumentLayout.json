@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e ann\u00E9e\\c-.net\\consoleappsemaine3\\consoleappsemaine3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D36D367-4718-45AE-BCDF-93B1602C0A0F}|ConsoleAppSemaine3\\ConsoleAppSemaine3.csproj|solutionrelative:consoleappsemaine3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Categories [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "dbo.Categories [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-09T12:19:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Customer.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Models\\Customer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:24:04.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Territory.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Territory.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Models\\Territory.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Territory.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Models\\Territory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:38:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Employee.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Models\\Employee.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:29:11.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:11:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Category.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:37:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Models\\Product.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:34:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSemaine3\\Program.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e ann\u00E9e\\C-.net\\ConsoleAppSemaine3\\ConsoleAppSemaine3\\Program.cs",
+              "RelativeToolTip": "ConsoleAppSemaine3\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:41:46.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
