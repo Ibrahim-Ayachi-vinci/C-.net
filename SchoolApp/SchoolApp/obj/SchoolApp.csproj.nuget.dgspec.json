@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\SchoolApp\\SchoolApp\\SchoolApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\SchoolApp\\SchoolApp\\SchoolApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp2\\ConsoleApp2.csproj",
-        "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
+        "projectName": "SchoolApp",
+        "projectPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
         "packagesPath": "C:\\Users\\ayach\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\SchoolApp\\SchoolApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayach\\AppData\\Roaming\\NuGet\\NuGet.Config",

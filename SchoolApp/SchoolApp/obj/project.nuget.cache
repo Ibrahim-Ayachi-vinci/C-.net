@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Te91njtQvoc=",
+  "dgSpecHash": "cDyiBkNWsNk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\ConsoleApp2\\ConsoleApp2.csproj",
+  "projectFilePath": "C:\\Users\\ayach\\Desktop\\école\\3e année\\C-.net\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayach\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ayach\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
