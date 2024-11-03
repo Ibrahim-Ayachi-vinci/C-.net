@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Bank_Minimal_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E43F25D-5308-4C0A-9BB9-21EB2BBCC62B}|Bank_Minimal_API\\Bank_Minimal_API.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e\\c-.net\\bank_minimal_api\\bank_minimal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E43F25D-5308-4C0A-9BB9-21EB2BBCC62B}|Bank_Minimal_API\\Bank_Minimal_API.csproj|solutionrelative:bank_minimal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Bank_Minimal_API\\Bank_Minimal_API\\Program.cs",
+              "RelativeDocumentMoniker": "Bank_Minimal_API\\Program.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Bank_Minimal_API\\Bank_Minimal_API\\Program.cs",
+              "RelativeToolTip": "Bank_Minimal_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:42:57.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

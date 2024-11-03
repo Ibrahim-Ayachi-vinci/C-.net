@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e\\c-.net\\student_api_controllers\\student_api_controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|solutionrelative:student_api_controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e\\c-.net\\student_api_controllers\\student_api_controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|solutionrelative:student_api_controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e\\c-.net\\student_api_controllers\\student_api_controllers\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|solutionrelative:student_api_controllers\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|c:\\users\\ayach\\desktop\\\u00E9cole\\3e\\c-.net\\student_api_controllers\\student_api_controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3986688-69CF-46C7-908C-1221A7E87AD9}|Student_API_Controllers\\Student_API_Controllers.csproj|solutionrelative:student_api_controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\appsettings.json",
+              "RelativeDocumentMoniker": "Student_API_Controllers\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\appsettings.json",
+              "RelativeToolTip": "Student_API_Controllers\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T19:21:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student_API_Controllers\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student_API_Controllers\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:04:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\Student.cs",
+              "RelativeDocumentMoniker": "Student_API_Controllers\\Student.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\Student.cs",
+              "RelativeToolTip": "Student_API_Controllers\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:01:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\Program.cs",
+              "RelativeDocumentMoniker": "Student_API_Controllers\\Program.cs",
+              "ToolTip": "C:\\Users\\ayach\\Desktop\\\u00E9cole\\3e\\C-.net\\Student_API_Controllers\\Student_API_Controllers\\Program.cs",
+              "RelativeToolTip": "Student_API_Controllers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:01:07.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
